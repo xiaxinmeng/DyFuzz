@@ -1,7 +1,7 @@
 # DyFuzz
 A prototype tool to test interpreter by fuzzing built-in library. 
 
-# Environment: Python3.9.2, Ubuntu 16.04
+Environment: Python3.9.2, Ubuntu 16.04
 
 
 Usage of the tool:
